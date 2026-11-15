@@ -1,2 +1,4 @@
 # ict-lab-8-2630127
-My first Git and Git hub Lab
+
+Name: Anna Rose
+Roll Number: 2630127
